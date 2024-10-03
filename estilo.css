@@ -1,0 +1,140 @@
+body{
+    margin: 0 ;
+    font-family: tahoma;
+}
+
+/* Estilo Globais*/
+
+.secao{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+
+
+.paragrafo{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;   
+}
+
+.topo{
+    background-color: #afddfb;
+}
+
+.imagen-topo{
+    width: 150px;
+}
+ .Paragrafo-topo{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+ }
+
+ .Link-topo{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px ;
+
+ }
+
+ .banner{
+    margin-top: 50px;
+    padding-top: 0;
+ }
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.imóvel{
+        width: 450px;
+}
+
+     .texto-Azul{
+    color: #1d80c1;
+    
+}
+
+.servicos-imobiliaria{
+    background-color: #1d80c1;
+}
+
+h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafo-servico{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.lista-imobiliaria{
+    margin: 40px auto 40px;
+    width: 135px;
+}
+
+.lista{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.contato{
+    background-color: #1d80c1;
+}
+
+.paragrafo-contato{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lista-contato{
+    margin: 40px auto;
+    list-style: none;
+    width: 210px;
+}
+
+.item-lista-contato{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+ }
+
+ .link-contato{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+
+
+ }
